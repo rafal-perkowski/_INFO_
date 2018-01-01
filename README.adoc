@@ -2,10 +2,6 @@
 
 :githubdir: https://github.com/rperkow
 :projectdir: /_INFO_
-:project01dir: /InternetRzeczy
-:project02dir: /RankDatabase
-:project03dir: /RankApplication
-:project04dir: /KursyPWN
 :blobmasterdir: /blob/master
 
 ## Wstęp
@@ -28,10 +24,10 @@ Swoim zakresem objął następujące tematy:
 
 ## Projekty zrealizowane
 
-* {githubdir}{project01dir}{blobmasterdir}/README.adoc[Projekt nr 1]: Prosta strona domowa (HTML, CSS)
-* {githubdir}{project02dir}{blobmasterdir}/README.adoc[Projekt nr 2]: Implementacja relacyjnej bazy danych (MySQL)
-* {githubdir}{project03dir}{blobmasterdir}/README.adoc[Projekt nr 3]: Aplikacja w języku Python łącząca z bazą danych (Python, PyMySQL)
-* {githubdir}{project04dir}{blobmasterdir}/README.adoc[Projekt nr 4]: Program do oceny projektów kursantów (JavaSE, JDBC, JavaFX, MySQL)
+* link:../InternetRzeczy[Projekt nr 1]: Prosta strona domowa (HTML, CSS)
+* link:../RankDatabase[Projekt nr 2]: Implementacja relacyjnej bazy danych (MySQL)
+* link:../RankApplicationProjekt nr 3]: Aplikacja w języku Python łącząca z bazą danych (Python, PyMySQL)
+* link:../KursyPWN[Projekt nr 4]: Program do oceny projektów kursantów (JavaSE, JDBC, JavaFX, MySQL)
 
 ## Projekty w realizacji
 
