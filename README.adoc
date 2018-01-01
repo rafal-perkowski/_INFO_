@@ -24,10 +24,10 @@ Swoim zakresem objął następujące tematy:
 
 ## Projekty zrealizowane
 
-* link:../../../InternetRzeczy[Projekt nr 1]: Prosta strona domowa (HTML, CSS)
-* link:../../../RankDatabase[Projekt nr 2]: Implementacja relacyjnej bazy danych (MySQL)
-* link:../../../RankApplication[Projekt nr 3]: Aplikacja w języku Python łącząca z bazą danych (Python, PyMySQL)
-* link:../../../KursyPWN[Projekt nr 4]: Program do oceny projektów kursantów (JavaSE, JDBC, JavaFX, MySQL)
+* {githubdir}/InternetRzeczy/{blobmasterdir}/README.adoc[Projekt nr 1]: Prosta strona domowa (HTML, CSS)
+* {githubdir}/RankDatabase/{blobmasterdir}/README.adoc[Projekt nr 2]: Implementacja relacyjnej bazy danych (MySQL)
+* {githubdir}/RankApplication/{blobmasterdir}/README.adoc[Projekt nr 3]: Aplikacja w języku Python łącząca z bazą danych (Python, PyMySQL)
+* {githubdir}/KursyPWN/{blobmasterdir}/README.adoc[Projekt nr 4]: Program do oceny projektów kursantów (JavaSE, JDBC, JavaFX, MySQL)
 
 ## Projekty w realizacji
 
