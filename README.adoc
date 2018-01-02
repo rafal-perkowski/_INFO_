@@ -1,6 +1,6 @@
 = README - INFORMACJE
 
-:githubdir: https://github.com/rperkow
+:githubdir: https://github.com/rafal-perkowski
 :projectdir: /_INFO_
 :blobmasterdir: /blob/master
 
