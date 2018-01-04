@@ -17,7 +17,7 @@ Swoim zakresem objął następujące tematy:
 . MySQL - system zarządzania relacyjnymi bazami danych (MySQL Community Server, MySQL Workbench).
 . Git - rozproszony system kontroli wersji (Git Bash, GitHub, TortoiseGit).
 . Python - obiektowy język programowania (Wing Python, Eclipse PyDev).
-. Wybrane techniki Front-End (HTML, CSS, Bootstrap, jQuery).
+. Wybrane techniki Front-End (HTML, CSS, Bootstrap, jQuery, XML).
 . Java - obiektowy język programowania (Eclipse IDE, JavaSE, JDBC, JavaFX).
 . DPP - Dobre Praktyki Programowania (UpperCase, lowercase, camelCase, notacja węgierska).
 . Spring - szkielet tworzenia aplikacji (Maven, Tomcat, Spring Tool Suite).
