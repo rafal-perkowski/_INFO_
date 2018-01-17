@@ -24,7 +24,7 @@ Swoim zakresem objął następujące tematy:
 
 ## Projekty zrealizowane
 
-* {githubdir}/InternetRzeczy[Projekt nr 1]: Prosta strona domowa (HTML, CSS)
+* {githubdir}/InternetRzeczy[Projekt nr 1]: Prosta strona domowa - Internet Rzeczy (HTML, CSS)
 * {githubdir}/RankDatabase[Projekt nr 2]: Implementacja relacyjnej bazy danych (MySQL)
 * {githubdir}/RankApplication[Projekt nr 3]: Aplikacja w języku Python łącząca z bazą danych (Python, MVC, PyMySQL)
 * {githubdir}/KursyPWN[Projekt nr 4]: Program do oceny projektów kursantów (JavaSE, MVC, JDBC, JavaFX, MySQL)
