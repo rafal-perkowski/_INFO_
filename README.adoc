@@ -34,7 +34,3 @@ Swoim zakresem objął następujące tematy:
 * [Projekt nr 5]: Wykorzystanie szkieletu Spring do tworzenia aplikacji (JavaEE, Spring MVC, SpringData, Thymeleaf))
 ** {githubdir}/SpringTests[Spring Tests]: Testowe szkielety projektowe tworzone w Spring Tool Suite (STS).
 ** {githubdir}/SpringApps[Spring Apps]: Testowe aplikacje implementowane i uruchamiane przy użyciu narzędzia Spring Tool Suite (STS).
-
-## Projekty planowane
-
-* [Projekt nr 6]: Przykładowa gra strategiczna (Java)
